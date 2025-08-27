@@ -5,6 +5,6 @@ A small python library created for a 3 pin ultra sonic distance sensor or PING))
 
 # Setup
 Check the example file to see how to use the library. When selecting unit you can abbreviate or spell it out: 
-'''python sensor=UltraSonic(18,'Board','mm')
+'''bash sensor=UltraSonic(18,'Board','mm')
 sensor=UltraSonic(18,'Board','milimeter')'''
 
