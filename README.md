@@ -1,7 +1,7 @@
 # 3pinUltraSonicDistance-
 A small python library created for a 3 pin ultra sonic distance sensor or PING))) ultra sonic distance sensor. It measures distance, then converts it into desired unit.
 
-## Installation 
+## Download 
 ```bash
 git clone https://github.com/gWagner12998/3pinUltraSonicDistance-.git
 ```
